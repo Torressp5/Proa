@@ -1,0 +1,25 @@
+h1 {
+    max-width: max-content;
+    color: blue;
+    background-color: silver;
+}
+
+p {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+#button1 {
+    border-color: blue;
+}
